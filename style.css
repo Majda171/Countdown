@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+/*.msg, .msgCard {
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    
+  }
+
+  .msg--valid,
+  .msgCard--valid {
+    background-color: rgb(44, 184, 44);
+  }
+  .msg--invalid,
+  .msgCard--invalid {
+    background-color: rgb(190, 22, 22);
+  }*/
+
+  h1{
+    color: rgb(219, 24, 24);
+    margin: 25px;
+  }
+p{
+    margin: 25px;
+}
+#result{
+    font-size: 70px;
+    font-weight: bold;
+}
+  .message{
+    font-weight: bold;
+  }
+
+
+  #countdown{
+    font-size: 70px;
+    font-weight: bold;
+    color: rgb(219, 24, 24);
+  }
